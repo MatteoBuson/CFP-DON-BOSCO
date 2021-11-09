@@ -16,9 +16,9 @@ body {
 }
 
 #fascetta2 {
-    height:  37px;
+    height:  10px;
     padding: 577px;
-    padding-right: 100px;
+    padding-right: 5px;
     word-spacing: 3px;
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 #testo {
-    min-height: 367px;
+    min-height: 37px;
 }
 
 #blu {
